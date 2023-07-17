@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-# matches_corresponding_given_bytecodes
-
 
 def magic_calculation(a, b):
-    """Match given bytecode."""
+    """Match given bytecode by Holberton School."""
     from magic_calculation_102 import add, sub
 
     if a < b:
